@@ -1,0 +1,22 @@
+.gambar{
+	background-image: url(gambar/kebakaran.jpg);
+	height: 400px;
+	width: 700px;
+}
+.countainer{
+	width: 750px;
+	margin: auto;
+}
+p{
+	text-align: justify;
+	padding: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.banner{
+	height: 1350px;
+	background-image: url(gambar/1.jpg);
+	background-position: 0 -1350px;
+	border-top: 5px solid salmon;
+	border-bottom: 5px solid salmon;
+}
